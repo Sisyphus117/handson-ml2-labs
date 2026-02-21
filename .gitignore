@@ -1,4 +1,7 @@
 datasets
 *.pkl
+*.h5
+*.keras
 
 /images
+/my_logs
